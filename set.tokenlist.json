@@ -732,6 +732,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x645B28102f69CE4A8Ad0C5aC60469EA6BB748ddc",
+      "name": "Ak parti",
+      "symbol": "AKP",
+      "decimals": 18,
+      "logoURI": "https://github.com/umutozkirisci/tokenlogo/blob/main/IMG_20241101_015641.png"
+    },
+    {
+      "chainId": 1,
       "address": "0xD09C07A97eEA2Db9962aA4F95B6437a43E657858",
       "name": "LunaCapital Metaverse Games",
       "symbol": "OASIS",
